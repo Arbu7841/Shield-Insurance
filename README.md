@@ -28,34 +28,34 @@ My task was to assist Shield Insurance in making data-driven decisions by analyz
 
 
 
-![Shiled Insurance Data Model](https://github.com/user-attachments/assets/ae0f80c5-22b9-405f-974a-d225194b7b7a)
+![Shiled Insurance Data Model](https://github.com/Arbu7841/Shield-Insurance/blob/main/Data%20Model.png)
 
 
 ## Dashboard Overview - 
 
 ### **Home Page -** When a user logs in for the first time, they will land on this page. From here, they can navigate to different pages.
 
-![home page](https://github.com/user-attachments/assets/4c86e911-c87f-41b4-aea9-d9e95c662d8f)
+![home page](https://github.com/Arbu7841/Shield-Insurance/blob/main/Home%20Page.jpg)
 
 
 
-### **General Analysis -** Provide an overview of essential insurance metrics, including monthly revenue and customer trends. Also age group and city segmentation.
+### **General View Analysis -** Provide an overview of essential insurance metrics, including monthly revenue and customer trends. Also age group and city segmentation.
 
-![General Analysis](https://github.com/user-attachments/assets/e7ed8330-e2f8-4b7d-83df-12d88e0edb2e)
-
-
-
-### **Sales Mode Analysis -** Showcase sales performance metrics across different modes, including a revenue trend chart highlighting the sales channel that generated the highest revenue percentage.
-
-
-![sales mode analysis](https://github.com/user-attachments/assets/04575041-dfaa-4a66-961b-696c240cb9fb)
+![General view Analysis](https://github.com/Arbu7841/Shield-Insurance/blob/main/General%20View.jpg)
 
 
 
-### **Age Group Analysis -** Demonstrate company revenue and customer performance by age group, including metrics for estimated settlement amounts, and policy preferences.
+### **Sales View Analysis -** Showcase sales performance metrics across different modes, including a revenue trend chart highlighting the sales channel that generated the highest revenue percentage.
 
 
-![age group analysis](https://github.com/user-attachments/assets/68b72b1a-440b-48a0-840c-68b8b83a4bc6)
+![sales view analysis](https://github.com/Arbu7841/Shield-Insurance/blob/main/Sales%20View.jpg)
+
+
+
+### **Customer View Analysis -** Demonstrate company revenue and customer performance by age group, including metrics for estimated settlement amounts, and policy preferences.
+
+
+![customer view analysis](https://github.com/Arbu7841/Shield-Insurance/blob/main/Customer%20View.jpg)
 
 
 
