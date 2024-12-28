@@ -2,7 +2,7 @@
 
 This project is a part of the virtual Internship at AtliQ Technologies.
 
-**Dashboard Link -**  https://app.powerbi.com/view?r=eyJrIjoiM2U5NzczMjYtZWZlZS00M2FlLThhOWQtYzI3YmQxMzdiZDc4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=08abb8e3c4de7f47e5ab
+**Dashboard Link -**  https://app.powerbi.com/view?r=eyJrIjoiYmEyMzFmN2EtOWI0Ni00OWFjLTlkZmUtNjA3Mzk4MTY4OTRjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=08abb8e3c4de7f47e5ab
 
 **Presentation Link -**  https://www.linkedin.com/posts/arbaj-ansari_connection-codebasicsvirtualinternship-powerbi-activity-7252920217046016000-IK-v?utm_source=share&utm_medium=member_desktop
 
